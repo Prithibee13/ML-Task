@@ -8,6 +8,7 @@ The entire dataset is divided divided on train and test csv file. It content rev
 
 - Language preprocessing  process data each by each. Therefore, more data will be take much time in  the process
 - Much data need larger vocabulary size. Which  can be caused overfitting.
+- More deversified and lengthy data can cause difficulty in setting model's parameter.
 
 # confusion matrix for Transformer model. 
 ![App Screenshot](https://github.com/Prithibee13/ML-Task/blob/main/RNN%20and%20Transformer/Confusion%20Matrix/Transformer%20confusion%20Matrix.png)
